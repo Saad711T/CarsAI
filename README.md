@@ -16,9 +16,11 @@ Simple ML model to visualizing and analyzing car manufacturer from an image.
 - `datasets` : Small dataset for cars images , structured in manufacturer folders.
 
 ### Examples
-![bmw](tests_success/bmw.jpg)
+<img src="tests_success/bmw.jpg" alt="bmw" width="500px">
+
 <br>
-![chevy](tests_success/chevy.jpg)
+
+<img src="tests_success/chevy.jpg" alt="chevy" width="500px">
 
 #### Credits
 [0xSaad](https://www.linkedin.com/in/saadalmalki711)
