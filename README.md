@@ -24,7 +24,7 @@ Simple ML model to visualizing and analyzing car manufacturer from an image.
 
 <br>
 
-<img src="tests_success/camry.jpg" width="800px" />
+<img src="tests_success/camry.png" width="800px" />
 
 #### Credits
 [0xSaad](https://www.linkedin.com/in/saadalmalki711)
