@@ -1,5 +1,5 @@
 # CarsAI
-Simple ML model to visualizing and analyzing car manufacturer from an image.
+Simple neural network model to visualizing and analyzing car manufacturer from an image.
 
 ## How to use the model ?
 - First step download the project on your local machine by running this command in your terminal : `git clone https://github.com/Saad711T/CarsAI`
