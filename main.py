@@ -57,7 +57,7 @@ def display_image_with_prediction(image_path, prediction):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("🔧 الاستخدام: python main.py path/to/image.jpg")
+        print("to use writing python main.py path/to/image.jpg")
         sys.exit(1)
 
     image_path = sys.argv[1]
