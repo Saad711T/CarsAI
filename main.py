@@ -9,7 +9,7 @@ import os
 
 
 # Cars
-class_names = ['bmw', 'chevy', 'ferrari', 'ford', 'toyota']
+class_names = ['bmw', 'chevy', 'ferrari', 'ford', 'toyota','mercedes']
 
 
 
